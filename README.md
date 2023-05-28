@@ -7,8 +7,8 @@
  
 ### 📃Projects I am Proud Of: 
 
-- <a href="https://silver-stroopwafel-4a0ee3.netlify.app/" style="font-weight:bold" align="left">LEGOBOTIC: </a> <span> A MERN stack website with responsive unique design  </span> 
-- <a href="https://assignment10-2757a.web.app/" style="font-weight:bold" align="left">FOODIXIR: </a> <span> Another MERN Stack website with firebase authentication </span> 
+- <a target="_blank" href="https://silver-stroopwafel-4a0ee3.netlify.app/" style="font-weight:bold" align="left">LEGOBOTIC: </a> <span> A MERN stack website with responsive unique design  </span> 
+- <a target="_blank" href="https://assignment10-2757a.web.app/" style="font-weight:bold" align="left">FOODIXIR: </a> <span> Another MERN Stack website with firebase authentication </span> 
 
 #### FRONT END DEVELOPMENT
 ● JavaScript – Intermediate ● ReactJS – Intermediate ● HTML – Proficient   ● CSS - Proficient ● Tailwind CSS – Proficient ● Bootstrap – Beginner
