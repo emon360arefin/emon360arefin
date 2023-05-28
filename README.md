@@ -10,12 +10,25 @@
 - <a href="https://silver-stroopwafel-4a0ee3.netlify.app/" style="font-weight:bold" align="left">LEGOBOTIC: </a> <span> A MERN stack website with responsive unique design  </span> 
 - <a href="https://assignment10-2757a.web.app/" style="font-weight:bold" align="left">FOODIXIR: </a> <span> Another MERN Stack website with firebase authentication </span> 
 
-####FRONT END DEVELOPMENT
-● JavaScript – Comfortable ● ReactJS – Comfortable ● HTML – Skilled   ● CSS -  Skilled ● Tailwind CSS – Skilled ● Bootstrap – Beginner
-● Elementor – Expert ● WordPress – Comfortable 
-####BACK END DEVELOPMENT
-● NodeJS – Learning ● Express – Beginner ● MongoDB - Beginner
-####MISCELLANEOUS
-● SEO ● Photoshop ● Premiere Pro ● PowerPoint
-![image](https://github.com/emon360arefin/emon360arefin/assets/86819686/a965b587-60da-4cf6-8486-f43b2519be54)
+#### FRONT END DEVELOPMENT
+- JavaScript – Intermediate  
+- ReactJS – Intermediate 
+- HTML – Proficient  
+- CSS -  Proficient 
+- Tailwind CSS – Proficient 
+- Bootstrap – Beginner
+- Elementor – Expert 
+- WordPress – Proficient 
+
+#### BACK END DEVELOPMENT
+- NodeJS – Beginner 
+- Express – Beginner 
+- MongoDB - Beginner
+
+#### MISCELLANEOUS
+- SEO 
+- Photoshop 
+- Premiere Pro 
+- PowerPoint
+
 
