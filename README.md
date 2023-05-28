@@ -11,24 +11,11 @@
 - <a href="https://assignment10-2757a.web.app/" style="font-weight:bold" align="left">FOODIXIR: </a> <span> Another MERN Stack website with firebase authentication </span> 
 
 #### FRONT END DEVELOPMENT
-- JavaScript – Intermediate  
-- ReactJS – Intermediate 
-- HTML – Proficient  
-- CSS -  Proficient 
-- Tailwind CSS – Proficient 
-- Bootstrap – Beginner
-- Elementor – Expert 
-- WordPress – Proficient 
-
+● JavaScript – Intermediate ● ReactJS – Intermediate ● HTML – Proficient   ● CSS - Proficient ● Tailwind CSS – Proficient ● Bootstrap – Beginner
+● Elementor – Expert ● WordPress – Intermediate 
 #### BACK END DEVELOPMENT
-- NodeJS – Beginner 
-- Express – Beginner 
-- MongoDB - Beginner
-
+● NodeJS – Beginner ● Express – Beginner ● MongoDB - Beginner
 #### MISCELLANEOUS
-- SEO 
-- Photoshop 
-- Premiere Pro 
-- PowerPoint
+● SEO ● Photoshop ● Premiere Pro ● PowerPoint
 
 
