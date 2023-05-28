@@ -1,9 +1,10 @@
-<h1 align="center">Hi 👋, I'm Emon Arefin</h1>
-<h3 align="center">An enthusiastic front-end developer who is always keen to learn new technology out there</h3>
+### Hi there 👋, I am Emon Arefin
+#### An enthusiastic front-end developer who is always keen to learn new technology out there
+![An enthusiastic front-end developer who is always keen to learn new technology out there](https://media.licdn.com/dms/image/D5616AQG2NOzOuLbvMg/profile-displaybackgroundimage-shrink_350_1400/0/1684792754355?e=1691020800&v=beta&t=iwsuEl3H2XnVEVW3GlG650Y0QSdQzjZ3_vfu8cZ8gJg)
 
-- 👨‍💻 All of my projects are available at [https://emonarefin.com/](https://emonarefin.com/)
+Visit My Website: [https://emonarefin.com/](https://emonarefin.com/)
 
-- 📫 How to reach me **webdesign.emon@gmail.com**
+📫 Reach me here: **webdesign.emon@gmail.com**
 
 - 📄 Know about my experiences [http://emonarefin.com/wp-content/uploads/2023/05/Emon-Arefin-Resume.pdf](http://emonarefin.com/wp-content/uploads/2023/05/Emon-Arefin-Resume.pdf)
 
