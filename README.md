@@ -18,6 +18,7 @@
 #### MISCELLANEOUS
 ● SEO ● Photoshop ● Premiere Pro ● PowerPoint
 
+----------------------
 
 ### Github Stats  
 <table><tr><td valign="top" width="50%">
