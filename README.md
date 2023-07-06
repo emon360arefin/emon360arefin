@@ -1,5 +1,5 @@
 # Hi there 👋, I am Emon Arefin
-#### An enthusiastic Front End Developer who is always keen to learn new technology out there
+#### A Front End Developer who is always keen to learn new technology out there
 ![An enthusiastic front-end developer who is always keen to learn new technology out there](https://media.licdn.com/dms/image/D5616AQG2NOzOuLbvMg/profile-displaybackgroundimage-shrink_350_1400/0/1684792754355?e=1691020800&v=beta&t=iwsuEl3H2XnVEVW3GlG650Y0QSdQzjZ3_vfu8cZ8gJg)
 
 🌐 Visit My Website: [https://emonarefin.com/](https://emonarefin.com/)
